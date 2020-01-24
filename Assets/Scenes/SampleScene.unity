@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 198263619}
   - component: {fileID: 198263618}
   m_Layer: 0
-  m_Name: Stars Small_1
+  m_Name: Small Stars
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 480122532}
   - component: {fileID: 480122531}
   m_Layer: 0
-  m_Name: Stars-Big_1
+  m_Name: Big Stars
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
