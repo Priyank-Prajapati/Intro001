@@ -481,8 +481,8 @@ MonoBehaviour:
   speed: 15
   minX: -8
   maxX: 4
-  minY: 4
-  maxY: -4
+  minY: -4
+  maxY: 4
 --- !u!1 &1711256062
 GameObject:
   m_ObjectHideFlags: 0
