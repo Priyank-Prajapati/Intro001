@@ -144,7 +144,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 132047419}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.1733333, y: 0.035, z: -16.666666}
+  m_LocalPosition: {x: 1.1733333, y: 0.035, z: 0}
   m_LocalScale: {x: 1.6666666, y: 1.6666666, z: 1.6666666}
   m_Children: []
   m_Father: {fileID: 1529878601}
@@ -516,7 +516,7 @@ MonoBehaviour:
   maxY: 4
   laser: {fileID: 3107031127348667536, guid: abc1e9556fdcbc143b2350531247a844, type: 3}
   laserSpawn: {fileID: 132047420}
-  fireRate: 0.25
+  fireRateDelay: 0.25
 --- !u!1 &1711256062
 GameObject:
   m_ObjectHideFlags: 0
